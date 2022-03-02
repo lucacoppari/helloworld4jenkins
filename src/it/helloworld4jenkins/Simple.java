@@ -1,3 +1,4 @@
+package it.helloworld4jenkins;
 
 public class Simple {
 	 public static void main(String args[]){  
